@@ -65,3 +65,5 @@ Each platform gets its own port so you can run multiple instances simultaneously
 git clone https://github.com/thisnull7/nullphish.git
 cd nullphish
 pip install -r requirements.txt
+🚀 RUN
+python main.py
